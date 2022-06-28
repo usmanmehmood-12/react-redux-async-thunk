@@ -2,7 +2,7 @@
 
 **async thunk usage with redux toolkit on async api request**
 
-##API Used
+## API Used
 
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts)
 
